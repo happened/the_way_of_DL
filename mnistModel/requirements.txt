@@ -1,0 +1,7 @@
+numpy==1.23.1
+onnxruntime==1.12.0
+onnxruntime_gpu==1.10.0
+opencv_python_headless==4.5.5.64
+Pillow==9.2.0
+torch==1.12.0
+torchvision==0.13.0
